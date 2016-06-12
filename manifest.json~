@@ -5,7 +5,6 @@
 	"version": "0.1",
 
 	"icons": {
-		"16": "/assets/images/16.png",
 		"36": "/assets/images/36.png",
 		"48": "/assets/images/48.png",
 		"72": "/assets/images/72.png",
