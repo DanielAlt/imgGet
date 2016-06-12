@@ -1,0 +1,88 @@
+body{
+	width:400px;
+	background-color:rgb(120,120,120);
+}
+
+#title_wrapper{
+	width:100%;
+}
+
+.title{
+	font-size: 14pt;
+	margin-left:2.5%;
+	color:rgb(50,50,50);
+	float:left;
+	font-weight: bold;
+}
+
+.v_num{
+	font-size:12pt;
+	color:rgb(104,179,204);
+	float:right;
+}
+
+#checklist{
+	width:98%;
+	margin-left: 2.5%;
+	height:300px;
+	overflow-x: hidden;
+	overflow-y:scroll;
+	border:inset 1.5px white;
+}
+
+#dl_all{
+	width:95%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
+	height: 34px;
+	color:white;
+	background: rgb(0,100,0);
+}
+
+.row{
+	width:100%;
+	padding-top:2px;
+	padding-bottom:2px;
+	border-bottom:solid 1.5px black;
+	background-color:rgba(255,255,255,.7); 
+}
+.rowhead{
+	font-size: 13pt;
+	text-align: center;
+}
+.left_row, .middle_row, .right_row{
+	display:inline-block;
+	vertical-align: top;
+}
+.left_row{
+	width:50px;
+}
+.middle_row{
+	width:270px;
+	word-wrap:break-word;
+}
+.right_row{
+	width:50px;
+	text-align: center;
+}
+.checker{
+	width:30px;
+	height:30px;	
+}
+#console{
+	background-color:black;
+	color:rgb(100,200,100);
+	resize:none;
+	width:98%;
+	word-wrap: break-word;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	margin-left: 2.5%;
+	height:100px;
+}
+.minor_title{
+	float:right;
+	margin-right: 2.5%;
+	color:rgb(104,179,204);
+	font-size: 13pt;
+}
