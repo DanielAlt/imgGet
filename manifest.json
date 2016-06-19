@@ -2,7 +2,7 @@
 	"name": "imgGet",
 	"description": "A simple tool to grab all the images on a given webpage",
 	"manifest_version": 2,
-	"version": "0.1",
+	"version": "0.2",
 
 	"icons": {
 		"16": "/assets/images/16.png",
@@ -10,7 +10,6 @@
 		"48": "/assets/images/48.png",
 		"72": "/assets/images/72.png",
 		"96": "/assets/images/96.png",
-		"128": "/assets/images/128.png",
 		"144": "/assets/images/144.png",
 		"192": "/assets/images/192.png"
 	},
